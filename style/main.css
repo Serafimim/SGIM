@@ -64,6 +64,7 @@ img {
 header {
     background-color: darkgoldenrod;
     flex: 0 0 auto;
+    height: 200px;
 }
 
 
@@ -75,6 +76,7 @@ main {
 }
 main > div.container {
     flex: 1 0 auto;
+    background-color: lightgrey;
 }
 section {
 
@@ -88,4 +90,5 @@ aside {
 footer {
     background-color: darkgoldenrod;
     flex: 0 0 auto;
+    height: 300px;
 }
