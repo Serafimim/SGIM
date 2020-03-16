@@ -59,14 +59,17 @@ img {
 }
 
 
+
 /* Шапка сайта */
 header {
+    background-color: darkgoldenrod;
     flex: 0 0 auto;
 }
 
 
 /* Основное содержимое */
 main {
+    background-color: lightgrey;
     display: flex;
     flex: 1 0 auto;
 }
@@ -83,5 +86,6 @@ aside {
 
 /* Подвал сайта */
 footer {
+    background-color: darkgoldenrod;
     flex: 0 0 auto;
 }
