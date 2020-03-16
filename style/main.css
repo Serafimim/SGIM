@@ -98,4 +98,9 @@ footer {
     background-color: darkgoldenrod;
     flex: 0 0 auto;
     height: 200px;
+    color: white;
+}
+footer > div.container{
+    height: 100%;
+    padding: 10px 0;
 }
