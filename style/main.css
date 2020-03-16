@@ -69,6 +69,7 @@ header {
 header > div.container{
     height: 100%;
     align-items: center;
+    color: aliceblue;
 }
 
 
